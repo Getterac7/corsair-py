@@ -12,7 +12,7 @@ masterAnimationDict = {}
 
 ''' Player '''
 dict = masterAnimationDict['Player'] = {}
-dict['fileName'] = 'corsair.png'				#File name of the image to load for these sprites.
+dict['fileName'] = 'Corsair.png'				#File name of the image to load for these sprites.
 dict['tileSize'] = Vector.Twin(35, 33)		#Size in pixels of each tile in the image.
 actions = dict['actions'] = {}				#Jump into the actions dictionary.
 
